@@ -170,14 +170,6 @@ Individual suitability layers:
 
 ---
 
-## Final Suitability Map
-
-
-
-![Habitat Suitability Map](Habitat\_Suitability\_Map\_Dipodomys\_merriami\_2026.png)
-
----
-
 
 
 ## Software Used
