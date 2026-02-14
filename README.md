@@ -1,4 +1,4 @@
-# Habitat Suitability Modelling — Hypothetical Arid-Adapted Species\*
+# Habitat Suitability Modelling — Hypothetical Arid-Adapted Species
 
 
 
@@ -36,7 +36,7 @@ The study region covers a semi-arid landscape spanning parts of Rajasthan–Guja
 
 Semi-arid region spanning western Rajasthan and northern Gujarat, India.
 
-Coordinate System: \*\*EPSG:4326 (WGS84)\*\*
+Coordinate System: **EPSG:4326 (WGS84)**
 
 Spatial Resolution: ~1 km (inherited from WorldClim dataset)
 
