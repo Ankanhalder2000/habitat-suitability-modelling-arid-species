@@ -69,7 +69,7 @@ Weights reflect ecological relevance of predictors.
 ---
 
 ## Final Suitability Map
-![Habitat Suitability Map](final_maps/Habitat_Suitability_Map_Dipodomys_merriami_2026.png)
+![Habitat Suitability Map](maps/Habitat_Suitability_Map_Dipodomys_merriami_2026.png)
 
 ---
 
