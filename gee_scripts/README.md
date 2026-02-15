@@ -1,4 +1,4 @@
-\# Google Earth Engine Scripts
+# Google Earth Engine Scripts
 
 
 
@@ -10,19 +10,19 @@ This folder contains scripts used to acquire and preprocess environmental datase
 
 
 
-\## Purpose
+## Purpose
 
 Google Earth Engine was used to:
 
 
 
-\- Load global environmental datasets
+- Load global environmental datasets
 
-\- Clip layers to study region
+- Clip layers to study region
 
-\- Export rasters as GeoTIFF
+- Export rasters as GeoTIFF
 
-\- Maintain CRS consistency
+- Maintain CRS consistency
 
 
 
@@ -30,29 +30,29 @@ Google Earth Engine was used to:
 
 
 
-\## Exported Variables
+## Exported Variables
 
 
 
 Climate (WorldClim):
 
-\- BIO1 — Annual Mean Temperature
+- BIO1 — Annual Mean Temperature
 
-\- BIO12 — Annual Precipitation
+- BIO12 — Annual Precipitation
 
-\- BIO15 — Precipitation Seasonality
+- BIO15 — Precipitation Seasonality
 
 
 
 Topography:
 
-\- SRTM Elevation
+- SRTM Elevation
 
 
 
 Land Cover:
 
-\- MODIS MCD12Q1 (2021)
+- MODIS MCD12Q1 (2021)
 
 
 
@@ -60,7 +60,7 @@ Land Cover:
 
 
 
-\## Export Settings
+## Export Settings
 
 
 
@@ -68,13 +68,13 @@ All rasters exported using:
 
 
 
-\- Format: GeoTIFF
+- Format: GeoTIFF
 
-\- CRS: EPSG:4326
+- CRS: EPSG:4326
 
-\- Region: ROI polygon
+- Region: ROI polygon
 
-\- MaxPixels: 1e13
+- MaxPixels: 1e13
 
 
 
@@ -98,13 +98,14 @@ Land Cover | 500 m |
 
 
 
-\## Notes
+## Notes
 
 Data acquisition was performed entirely using public datasets available within Google Earth Engine.
 
 
 
 Processing and modelling were conducted in QGIS after export.
+
 
 
 
