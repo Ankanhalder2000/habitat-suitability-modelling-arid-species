@@ -128,6 +128,7 @@ All rasters were imported into QGIS for preprocessing.
 
 
 
+
 **Processing operations:**
 
 
@@ -146,6 +147,7 @@ All rasters were imported into QGIS for preprocessing.
 
 Raster alignment was performed using the **Align Raster Tool**.
 
+Continuous rasters were resampled using bilinear interpolation, while categorical land cover data were resampled using nearest neighbor.
 
 
 ---
@@ -239,7 +241,7 @@ Seasonality (BIO15) | 0.10 |
 
 
 Higher weights indicate greater ecological influence.
-
+Weights were assigned based on assumed ecological influence derived from literature on arid-adapted species habitat requirements.
 
 
 The weighted overlay produced:
@@ -389,6 +391,7 @@ Final layout created in QGIS Layout Manager included:
 
 
 All datasets used are publicly available and all analyses were performed using open-source software. The workflow is fully reproducible using the provided scripts and raster inputs.
+
 
 
 
