@@ -90,7 +90,7 @@ qgis_project/          QGIS project files
 paper/                 manuscript-style documentation
 validation/            robustness + uncertainty analysis
 workflow/              pipeline description and diagram
-maps/                  final map
+maps/                  final suitability map
 ```
 
 ---
