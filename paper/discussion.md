@@ -1,4 +1,4 @@
-\# Discussion
+# Discussion
 
 
 
@@ -11,6 +11,7 @@ The modelling approach illustrates how multiple environmental predictors can be 
 
 
 This framework can be extended to real species distribution modelling when occurrence data are available.
+
 
 
 
