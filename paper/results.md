@@ -1,4 +1,4 @@
-\# Results
+# Results
 
 
 
@@ -6,7 +6,7 @@ The model produced continuous and classified habitat suitability rasters represe
 
 
 
-\## Spatial Patterns
+## Spatial Patterns
 
 Higher suitability zones occur in regions with moderate temperature, intermediate precipitation, and stable precipitation seasonality.
 
@@ -16,23 +16,24 @@ Lower suitability regions correspond to extreme elevation or unsuitable land cov
 
 
 
-\## Output Products
+## Output Products
 
 Generated outputs include:
 
 
 
-\- Continuous suitability raster
+- Continuous suitability raster
 
-\- Normalized suitability raster
+- Normalized suitability raster
 
-\- Classified suitability raster
+- Classified suitability raster
 
-\- Predictor suitability layers
+- Predictor suitability layers
 
 
 
 All outputs are available in the `/outputs` directory.
+
 
 
 
