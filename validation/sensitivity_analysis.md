@@ -1,4 +1,4 @@
-\# Sensitivity Analysis
+# Sensitivity Analysis
 
 
 
@@ -19,6 +19,7 @@ Results indicate that the spatial distribution of suitability classes remained l
 
 
 This analysis demonstrates relative robustness of model predictions under plausible ecological weighting uncertainty.
+
 
 
 
