@@ -1,4 +1,4 @@
-\# Model Uncertainty Assessment
+# Model Uncertainty Assessment
 
 
 
@@ -10,15 +10,15 @@ Primary uncertainty sources include:
 
 
 
-\- Expert-defined suitability thresholds
+- Expert-defined suitability thresholds
 
-\- Absence of species occurrence records for validation
+- Absence of species occurrence records for validation
 
-\- Differences in spatial resolution among datasets
+- Differences in spatial resolution among datasets
 
-\- Potential classification error in land cover data
+- Potential classification error in land cover data
 
-\- Static environmental predictors that do not account for temporal variability
+- Static environmental predictors that do not account for temporal variability
 
 
 
@@ -30,15 +30,16 @@ Future model versions will incorporate quantitative uncertainty estimation, incl
 
 
 
-\- ensemble modelling approaches
+- ensemble modelling approaches
 
-\- sensitivity-derived uncertainty rasters
+- sensitivity-derived uncertainty rasters
 
-\- statistical validation using occurrence data
+- statistical validation using occurrence data
 
 
 
 These improvements will allow explicit spatial representation of prediction confidence.
+
 
 
 
