@@ -106,7 +106,7 @@ Environmental datasets were accessed and exported using Google Earth Engine.
 
 - BIO1\_AnnualMeanTemp\_WorldClim.tif  
 
-- BIO1s2\_AnnualPrecip\_WorldClim.tif  
+- BIO12\_AnnualPrecip\_WorldClim.tif  
 
 - BIO15\_PrecipSeasonality\_WorldClim.tif  
 
@@ -186,15 +186,15 @@ Thresholds were defined manually using ecological reasoning based on environment
 
 
 
-- BIO1\_suitability.tif  
+- BIO1_suitability.tif  
 
-- BIO12\_suitability.tif  
+- BIO12_suitability.tif  
 
-- BIO15\_suitability.tif  
+- BIO15_suitability.tif  
 
-- Elevation\_suitability.tif  
+- Elevation_suitability.tif  
 
-- LandCover\_suitability.tif  
+- LandCover_suitability.tif  
 
 
 
@@ -248,7 +248,7 @@ The weighted overlay produced:
 
 
 
-**HabitatSuitability\_raw.tif**
+**HabitatSuitability_raw.tif**
 
 
 
@@ -260,13 +260,13 @@ The weighted overlay produced:
 
 
 
-The composite raster was rescaled to a \*\*0–1 range\*\* to standardise interpretation.
+The composite raster was rescaled to a **0–1 range** to standardise interpretation.
 
 
 
 **Output:**  
 
-`HabitatSuitability\_norm.tif`
+`HabitatSuitability_norm.tif`
 
 
 
@@ -294,7 +294,7 @@ The normalized raster was classified into four categories:
 
 **Output:**  
 
-`HabitatSuitability\_classes.tif`
+`HabitatSuitability_classes.tif`
 
 
 
@@ -391,6 +391,7 @@ Final layout created in QGIS Layout Manager included:
 
 
 All datasets used are publicly available and all analyses were performed using open-source software. The workflow is fully reproducible using the provided scripts and raster inputs.
+
 
 
 
