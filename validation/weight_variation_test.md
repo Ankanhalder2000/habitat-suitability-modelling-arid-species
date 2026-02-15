@@ -1,4 +1,4 @@
-\# Weight Variation Test
+# Weight Variation Test
 
 
 
@@ -10,13 +10,13 @@ Test scenarios included:
 
 
 
-\- Equal weights assigned to all predictors
+- Equal weights assigned to all predictors
 
-\- Increased climatic influence scenario
+- Increased climatic influence scenario
 
-\- Increased topographic influence scenario
+- Increased topographic influence scenario
 
-\- Reduced land cover influence scenario
+- Reduced land cover influence scenario
 
 
 
@@ -29,6 +29,7 @@ Comparisons showed that although numerical suitability values varied slightly, o
 
 
 This indicates that model structure is stable and not overly dependent on a single weighting configuration.
+
 
 
 
